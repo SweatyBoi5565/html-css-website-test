@@ -1,0 +1,45 @@
+body {
+  background-color: #222222;
+}
+h1 {
+  display: inline-block;
+  text-shadow: 2px 2px #00ff60;
+  background-color: red;
+  color: white;
+  font-style: italic;
+  text-decoration: overline;
+  cursor: help;
+}
+p {
+  display: inline-block;
+  text-shadow: 2px 2px #00ff60;
+  background-color: pink;
+  color: red;
+  border: 4px dotted blue;
+}
+p span {
+  font-weight: bold;
+}
+h3 {
+  text-shadow: 2px 2px #000000;
+  color: #ffffff;
+}
+.there {
+  text-shadow: 2px 2px ffffff;
+}
+.fire {
+  background-color: #ff0000;
+  color: yellow;
+}
+.tiger {
+  background-color: gray;
+  color: #222222;
+  font-family: impact;
+}
+.man {
+  background-color: orange;
+  color: gray;
+  font-family: cursive;
+}
+h4 {
+}
